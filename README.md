@@ -7,9 +7,9 @@ This project demonstrated my second forray into backend development. My goal was
 - [Credits](#credits)
 - [License](#license)
 ## Installation
-Deployed Link: 
+Set Up Video: https://www.youtube.com/watch?v=9IXa84ZyiPY
 ## Usage
-Video: 
+Function Video: https://www.youtube.com/watch?v=W3nnwddD9TE
 ## Credits
 https://github.com/Randy-chou
 ## License
